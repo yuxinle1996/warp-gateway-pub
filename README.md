@@ -9,3 +9,5 @@
 - 账号导出
 - 支持 apiKey/refreshToken/json 三种添加方式
 - 额度统计
+
+<img src=".\images\w-0.png" style="zoom:50%;" /> <img src=".\images\w-1.png" style="zoom:50%;" /> <img src=".\images\w-2.png" style="zoom:50%;" /> <img src=".\images\w-3.png" style="zoom:50%;" />
